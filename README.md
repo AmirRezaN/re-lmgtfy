@@ -1,8 +1,8 @@
 # About
-This is simply a lmgtfy concept in Persian, hosted at http://bmbgk.ir
+This is simply a lmgtfy concept in Persian, hosted at http://amn.soon.it
 
 # Note
-originally forked from re-lmgtfy but commpletely replace by another script
+originally forked from jadijadi/re-lmgtfy but commpletely replace by another script
 
 
 ## Use Bmbgk in bash
